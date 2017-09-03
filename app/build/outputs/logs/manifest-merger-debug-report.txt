@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MRissi\.android\build-cache\abc81303a5c1411fef5df8d5b3b8e0fbebc08987\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\MRissi\.android\build-cache\bed619382b4d8e0272eeaafc00f6eb959b2e2309\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MRissi\.android\build-cache\983d42b255dc1c09eb29e62cb6501fd2a2555c54\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MRissi\.android\build-cache\14563510298a8cc6f1850b0c478bcb5a65408b7a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MRissi\.android\build-cache\ec65f812ced846c332a5d31f168ec4c9e5748eae\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MRissi\.android\build-cache\ec596f5f417460684b93e0a16ea1df732792c9ac\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MRissi\.android\build-cache\1b089167c51c587c776dd655d9a4b0766382c9eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MRissi\.android\build-cache\59c0393cf025c5550110cfcf695e52309302d925\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MRissi\.android\build-cache\e63b90b35ccaf60452445d0eaca79a2fa7c8e193\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MRissi\.android\build-cache\4aa99a44010c00717e3e5a65a834165d3d5471c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MRissi\.android\build-cache\035f1f4e6a23cdc931ed2604d74d62d5d9bd42b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MRissi\.android\build-cache\1f979f67a3358a3f2084e8338148e596b6247254\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:11:9-40
+activity#guess.com.cursoandroid.mrissi.guess.MainActivity
+ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MRissi\.android\build-cache\abc81303a5c1411fef5df8d5b3b8e0fbebc08987\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\MRissi\.android\build-cache\bed619382b4d8e0272eeaafc00f6eb959b2e2309\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MRissi\.android\build-cache\983d42b255dc1c09eb29e62cb6501fd2a2555c54\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MRissi\.android\build-cache\14563510298a8cc6f1850b0c478bcb5a65408b7a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MRissi\.android\build-cache\ec65f812ced846c332a5d31f168ec4c9e5748eae\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MRissi\.android\build-cache\5e54bcc4472066a0100ddfc23e950778965589a9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MRissi\.android\build-cache\ec596f5f417460684b93e0a16ea1df732792c9ac\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MRissi\.android\build-cache\1b089167c51c587c776dd655d9a4b0766382c9eb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MRissi\.android\build-cache\59c0393cf025c5550110cfcf695e52309302d925\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MRissi\.android\build-cache\e63b90b35ccaf60452445d0eaca79a2fa7c8e193\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MRissi\.android\build-cache\4aa99a44010c00717e3e5a65a834165d3d5471c0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MRissi\.android\build-cache\035f1f4e6a23cdc931ed2604d74d62d5d9bd42b6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MRissi\.android\build-cache\1f979f67a3358a3f2084e8338148e596b6247254\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\MRissi\.android\build-cache\bed619382b4d8e0272eeaafc00f6eb959b2e2309\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MRissi\AndroidStudioProjects\GuessWhat\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\MRissi\.android\build-cache\bed619382b4d8e0272eeaafc00f6eb959b2e2309\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\MRissi\.android\build-cache\983d42b255dc1c09eb29e62cb6501fd2a2555c54\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\MRissi\.android\build-cache\14563510298a8cc6f1850b0c478bcb5a65408b7a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\MRissi\.android\build-cache\ec65f812ced846c332a5d31f168ec4c9e5748eae\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\MRissi\.android\build-cache\5e54bcc4472066a0100ddfc23e950778965589a9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\MRissi\.android\build-cache\ec596f5f417460684b93e0a16ea1df732792c9ac\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\MRissi\.android\build-cache\1b089167c51c587c776dd655d9a4b0766382c9eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\MRissi\.android\build-cache\59c0393cf025c5550110cfcf695e52309302d925\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\MRissi\.android\build-cache\e63b90b35ccaf60452445d0eaca79a2fa7c8e193\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\MRissi\.android\build-cache\4aa99a44010c00717e3e5a65a834165d3d5471c0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\MRissi\.android\build-cache\035f1f4e6a23cdc931ed2604d74d62d5d9bd42b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\MRissi\.android\build-cache\1f979f67a3358a3f2084e8338148e596b6247254\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\MRissi\.android\build-cache\bed619382b4d8e0272eeaafc00f6eb959b2e2309\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\MRissi\.android\build-cache\bed619382b4d8e0272eeaafc00f6eb959b2e2309\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\MRissi\\.android\\build-cache\\1b230b85fd94ac233898b7524016b146fb544c51\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\MRissi\\.android\\build-cache\\1b230b85fd94ac233898b7524016b146fb544c51\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
