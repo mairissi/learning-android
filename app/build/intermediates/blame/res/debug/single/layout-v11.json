@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\GuessWhat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\MRissi\\AndroidStudioProjects\\Guess\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\MRissi\\.android\\build-cache\\983d42b255dc1c09eb29e62cb6501fd2a2555c54\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
