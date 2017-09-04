@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dog\'s Age</string>
+    <string name="button_find_out_age">Find Out</string>
+</resources>
